@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>object/sword.obj</file>
+        <file>object/level.obj</file>
+    </qresource>
+</RCC>

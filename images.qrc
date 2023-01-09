@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/button_off.png</file>
+        <file>images/button_on.png</file>
+        <file>images/font_big.png</file>
+        <file>images/font_medium.png</file>
+        <file>images/font_micro.png</file>
+        <file>images/font_small.png</file>
+        <file>images/logo.png</file>
+    </qresource>
+</RCC>

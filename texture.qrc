@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>texture/sword.png</file>
+        <file>texture/level.png</file>
+    </qresource>
+</RCC>
